@@ -1,0 +1,16 @@
+C:\Users\cash\source\repos\Retail inventory company\Retail inventory company\obj\Debug\net10.0-windows\Retail_inventory_company.Form1.resources
+C:\Users\cash\source\repos\Retail inventory company\Retail inventory company\obj\Debug\net10.0-windows\Retail inventory company.csproj.GenerateResource.cache
+C:\Users\cash\source\repos\Retail inventory company\Retail inventory company\obj\Debug\net10.0-windows\Retail inventory company.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cash\source\repos\Retail inventory company\Retail inventory company\obj\Debug\net10.0-windows\Retail inventory company.AssemblyInfoInputs.cache
+C:\Users\cash\source\repos\Retail inventory company\Retail inventory company\obj\Debug\net10.0-windows\Retail inventory company.AssemblyInfo.cs
+C:\Users\cash\source\repos\Retail inventory company\Retail inventory company\obj\Debug\net10.0-windows\Retail inventory company.csproj.CoreCompileInputs.cache
+C:\Users\cash\source\repos\Retail inventory company\Retail inventory company\bin\Debug\net10.0-windows\Retail inventory company.exe
+C:\Users\cash\source\repos\Retail inventory company\Retail inventory company\bin\Debug\net10.0-windows\Retail inventory company.deps.json
+C:\Users\cash\source\repos\Retail inventory company\Retail inventory company\bin\Debug\net10.0-windows\Retail inventory company.runtimeconfig.json
+C:\Users\cash\source\repos\Retail inventory company\Retail inventory company\bin\Debug\net10.0-windows\Retail inventory company.dll
+C:\Users\cash\source\repos\Retail inventory company\Retail inventory company\bin\Debug\net10.0-windows\Retail inventory company.pdb
+C:\Users\cash\source\repos\Retail inventory company\Retail inventory company\obj\Debug\net10.0-windows\Retail inventory company.dll
+C:\Users\cash\source\repos\Retail inventory company\Retail inventory company\obj\Debug\net10.0-windows\refint\Retail inventory company.dll
+C:\Users\cash\source\repos\Retail inventory company\Retail inventory company\obj\Debug\net10.0-windows\Retail inventory company.pdb
+C:\Users\cash\source\repos\Retail inventory company\Retail inventory company\obj\Debug\net10.0-windows\Retail inventory company.genruntimeconfig.cache
+C:\Users\cash\source\repos\Retail inventory company\Retail inventory company\obj\Debug\net10.0-windows\ref\Retail inventory company.dll
