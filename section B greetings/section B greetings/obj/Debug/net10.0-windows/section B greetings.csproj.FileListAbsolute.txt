@@ -1,0 +1,16 @@
+C:\Users\cash\source\repos\section B greetings\section B greetings\bin\Debug\net10.0-windows\section B greetings.exe
+C:\Users\cash\source\repos\section B greetings\section B greetings\bin\Debug\net10.0-windows\section B greetings.deps.json
+C:\Users\cash\source\repos\section B greetings\section B greetings\bin\Debug\net10.0-windows\section B greetings.runtimeconfig.json
+C:\Users\cash\source\repos\section B greetings\section B greetings\bin\Debug\net10.0-windows\section B greetings.dll
+C:\Users\cash\source\repos\section B greetings\section B greetings\bin\Debug\net10.0-windows\section B greetings.pdb
+C:\Users\cash\source\repos\section B greetings\section B greetings\obj\Debug\net10.0-windows\section_B_greetings.Form1.resources
+C:\Users\cash\source\repos\section B greetings\section B greetings\obj\Debug\net10.0-windows\section B greetings.csproj.GenerateResource.cache
+C:\Users\cash\source\repos\section B greetings\section B greetings\obj\Debug\net10.0-windows\section B greetings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cash\source\repos\section B greetings\section B greetings\obj\Debug\net10.0-windows\section B greetings.AssemblyInfoInputs.cache
+C:\Users\cash\source\repos\section B greetings\section B greetings\obj\Debug\net10.0-windows\section B greetings.AssemblyInfo.cs
+C:\Users\cash\source\repos\section B greetings\section B greetings\obj\Debug\net10.0-windows\section B greetings.csproj.CoreCompileInputs.cache
+C:\Users\cash\source\repos\section B greetings\section B greetings\obj\Debug\net10.0-windows\section B greetings.dll
+C:\Users\cash\source\repos\section B greetings\section B greetings\obj\Debug\net10.0-windows\refint\section B greetings.dll
+C:\Users\cash\source\repos\section B greetings\section B greetings\obj\Debug\net10.0-windows\section B greetings.pdb
+C:\Users\cash\source\repos\section B greetings\section B greetings\obj\Debug\net10.0-windows\section B greetings.genruntimeconfig.cache
+C:\Users\cash\source\repos\section B greetings\section B greetings\obj\Debug\net10.0-windows\ref\section B greetings.dll
