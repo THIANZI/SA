@@ -1,0 +1,16 @@
+C:\Users\cash\source\repos\SECTION B qestion 1.2\SECTION B qestion 1.2\bin\Debug\net10.0-windows\SECTION B qestion 1.2.exe
+C:\Users\cash\source\repos\SECTION B qestion 1.2\SECTION B qestion 1.2\bin\Debug\net10.0-windows\SECTION B qestion 1.2.deps.json
+C:\Users\cash\source\repos\SECTION B qestion 1.2\SECTION B qestion 1.2\bin\Debug\net10.0-windows\SECTION B qestion 1.2.runtimeconfig.json
+C:\Users\cash\source\repos\SECTION B qestion 1.2\SECTION B qestion 1.2\bin\Debug\net10.0-windows\SECTION B qestion 1.2.dll
+C:\Users\cash\source\repos\SECTION B qestion 1.2\SECTION B qestion 1.2\bin\Debug\net10.0-windows\SECTION B qestion 1.2.pdb
+C:\Users\cash\source\repos\SECTION B qestion 1.2\SECTION B qestion 1.2\obj\Debug\net10.0-windows\SECTION_B_qestion_1._2.Form1.resources
+C:\Users\cash\source\repos\SECTION B qestion 1.2\SECTION B qestion 1.2\obj\Debug\net10.0-windows\SECTION B qestion 1.2.csproj.GenerateResource.cache
+C:\Users\cash\source\repos\SECTION B qestion 1.2\SECTION B qestion 1.2\obj\Debug\net10.0-windows\SECTION B qestion 1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cash\source\repos\SECTION B qestion 1.2\SECTION B qestion 1.2\obj\Debug\net10.0-windows\SECTION B qestion 1.2.AssemblyInfoInputs.cache
+C:\Users\cash\source\repos\SECTION B qestion 1.2\SECTION B qestion 1.2\obj\Debug\net10.0-windows\SECTION B qestion 1.2.AssemblyInfo.cs
+C:\Users\cash\source\repos\SECTION B qestion 1.2\SECTION B qestion 1.2\obj\Debug\net10.0-windows\SECTION B qestion 1.2.csproj.CoreCompileInputs.cache
+C:\Users\cash\source\repos\SECTION B qestion 1.2\SECTION B qestion 1.2\obj\Debug\net10.0-windows\SECTION B qestion 1.2.dll
+C:\Users\cash\source\repos\SECTION B qestion 1.2\SECTION B qestion 1.2\obj\Debug\net10.0-windows\refint\SECTION B qestion 1.2.dll
+C:\Users\cash\source\repos\SECTION B qestion 1.2\SECTION B qestion 1.2\obj\Debug\net10.0-windows\SECTION B qestion 1.2.pdb
+C:\Users\cash\source\repos\SECTION B qestion 1.2\SECTION B qestion 1.2\obj\Debug\net10.0-windows\SECTION B qestion 1.2.genruntimeconfig.cache
+C:\Users\cash\source\repos\SECTION B qestion 1.2\SECTION B qestion 1.2\obj\Debug\net10.0-windows\ref\SECTION B qestion 1.2.dll
